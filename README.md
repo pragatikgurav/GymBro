@@ -1,7 +1,5 @@
 # 💪 GymBro - Your Personal Fitness Partner
 
-![GymBro Banner](https://your-banner-url-if-any.com)
-
 > A sleek and modern fitness website built with **React.js**, designed for gym enthusiasts to explore services, connect with trainers, and submit membership forms – all with smooth UI and intuitive UX.
 
 ## 🌐 Live Demo
