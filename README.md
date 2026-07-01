@@ -20,20 +20,6 @@ A modern and responsive fitness platform built with **React.js** that helps user
 
 </a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Formik-2563EB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Yup-8B5CF6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
-
-</div>
-
 ---
 
 # 📖 About The Project
@@ -129,27 +115,6 @@ The application focuses on simplicity, speed, and an attractive design to encour
 </div>
 
 ---
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,html,css,javascript,bootstrap,git,github,vscode"/>
-
-</div>
-
-| Technology | Purpose |
-|------------|---------|
-| ⚛ React.js | Frontend Framework |
-| 📋 Formik | Form Handling |
-| ✅ Yup | Form Validation |
-| 🎨 Bootstrap | Responsive UI |
-| ✨ Framer Motion | Animations |
-| 🔔 React Toastify | Notifications |
-| 🌐 Netlify | Deployment |
-
----
-
 # 📂 Project Structure
 
 ```text
@@ -238,58 +203,12 @@ Membership Submitted ✅
 
 ---
 
-# 🌟 Project Highlights
-
-| Feature | Status |
-|---------|:------:|
-| 🏋️ Membership Plans | ✅ |
-| 👨‍🏫 Trainer Profiles | ✅ |
-| 📋 Registration Form | ✅ |
-| 📱 Responsive Design | ✅ |
-| ✨ Framer Motion Animations | ✅ |
-| 🔔 Toast Notifications | ✅ |
-| ⚡ Fast Performance | ✅ |
-
----
-
-# 🚀 Future Enhancements
-
-- 💳 Online Membership Payments
-- 🤖 AI Workout Recommendations
-- 📅 Class Booking System
-- 🍎 Nutrition Plans
-- 📈 Progress Tracking
-- 🌙 Dark Mode
-- 📱 Mobile App
-- 🔐 Authentication with Firebase
-
----
-
-# 🤝 Contributing
-
-Contributions are always welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push your branch
-5. Create a Pull Request
-
 ---
 
 # ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Built_with-React-61DAFB?style=for-the-badge&logo=react"/>
-
-<img src="https://img.shields.io/badge/Styled_with-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
-
-<img src="https://img.shields.io/badge/Hosted_on-Netlify-00C7B7?style=for-the-badge&logo=netlify"/>
-
-<br><br>
 
 ### 💪 Stay Fit • Stay Healthy • Keep Coding ❤️
 
